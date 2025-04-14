@@ -20,7 +20,6 @@ class reverse_Number {
         reverse_Number obj = new reverse_Number();
         int num = obj.getInput();
         obj.reverse(num);
-        //scanner.close();
     }
     
 }
